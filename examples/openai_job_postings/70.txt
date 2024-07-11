@@ -1,0 +1,61 @@
+Software Engineer, Privacy
+Security - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Privacy Team at OpenAI is committed to building a secure and trustworthy platform. Our area of responsibility encompasses all OpenAI products and systems that process user data. We provide cross-functional partners with the tools needed to ensure that all products adhere to the highest standards of data privacy and legal compliance. Our approach to prioritizing responsible data use is integral to OpenAI's mission of safely introducing Artificial General Intelligence (AGI) that offers widespread benefits.
+
+ 
+
+About the Role
+
+We’re in search of a Software Engineer with experience building data pipelines and working closely with members of the Legal team. This role is perfect for someone who's passionate about the intersection of systems, privacy, and legal compliance. You will architect, design, and write backend systems responsible for handling some of the most sensitive data at OpenAI.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Design, build, and maintain back-end systems and services that power privacy and data compliance functions within our API products and consumer applications.
+
+Work closely with legal advisors and other engineers to respond to court orders and other legal process, all while upholding strict data privacy and legal standards.
+
+Identify opportunities for automation and build the tools that enable other teams to automate tasks involving customer data.
+
+Develop and implement data handling policies and procedures in compliance with legal and ethical standards, ensuring the integrity and confidentiality of user data.
+
+ 
+
+You might thrive in this role if you:
+
+Have experience building data pipelines, especially for legal process and investigative workflows.
+
+Can translate legal requirements into technical solutions and explain technical solutions to a non-technical audience.
+
+Take responsibility for problems from beginning to end, and are prepared to acquire any missing knowledge necessary to get the job done.
+
+Create tools to speed up your own and your colleagues’ workflows, particularly when pre-existing solutions are inadequate.
+
+Deeply care about user experience and take pride in developing products that meet customer needs while ensuring privacy.
+
+Have a background in security investigations or experience working in collaboration with trust and safety, legal, and engineering teams.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$245K – $310K • Offers Equity
+
+Apply now

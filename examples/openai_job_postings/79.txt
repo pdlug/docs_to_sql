@@ -1,0 +1,71 @@
+Software Engineer, Uber Tech Lead, Human Data
+Human Data - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+OpenAI's Human Data Team creates custom data solutions driving groundbreaking research. Our work enhances and evaluates our flagship models and products like ChatGPT, GPT-4o, and Sora and contributes to safety initiatives through collaboration with our Preparedness and Safety Systems teams.
+
+We design, develop, and maintain the production-quality platform necessary to generate such data at scale. The team is responsible for data management tools, operations, data quality, and research on techniques for data collection. 
+
+We capture data from a variety of sources to train our models, across multiple different modalities (for example instruction following) and to train AI. We need to build a scalable set of internal tools and platforms in order to ensure the distribution, and quality of this data that comes from both synthetic and human experts across many domains (math, sciences, creative writing, programming, artistic endeavors). We’re also leveraging our own internal OpenAI models to scale our data collection and quality.
+
+ 
+
+About the Role
+
+In this role you will:
+
+Serve as overall technical lead for Human Data, which is a core part of the Research organization. You will collaborate with product managers, researchers, and the rest of our engineering team to create new products or platforms around emerging research capabilities and unsolved customer needs.
+
+Architect, build, and design our tooling, infra, products, and evals that power our data collection and management platform, including collecting important training signals from products like ChatGPT, Dall-E, Sora, along with the key interfaces used by our AI human labelers.
+
+Iterate rapidly to improve user and developer experience both for our internal team as well as partner research teams while advancing scalability, performance, observability, and security.
+
+Understand training and eval data needs from across all of OpenAI and research opportunities to improve our platform, and help develop our technical roadmap and prioritization.
+
+Mentor other very senior engineers / TLs, especially in building scalable systems, building optimal tools to help serve our customers, and prioritization and strategy.
+
+Help drive the high leverage projects for our team and ensure our team engagement is high and team, technical, and organizational blockers are resolved and milestones are delivered.
+
+Ensure that our overall data collection platform is secure, scalable, highly available, and maximally useful.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+ 
+
+You might thrive in this role if you:
+
+Have past experience as a technical lead of a larger organization (Uber TL), serving as the technical lead for a large team (20 - 40+ engineers) or multiple engineering groups concurrently.
+
+Have meaningful experience with building (and rebuilding) production systems to deliver new product capabilities and to handle increasing scale.
+
+Care deeply about the end user experience and have a passion for partnering with researchers and take pride in building products to accelerate research.
+
+Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed.
+
+Are willing to both own important problems end-to-end, but also have good delegation skills and are willing to pick up whatever knowledge you're missing to get the job done.
+
+Build tools to accelerate your own (and your teammates’) workflows, but only when off-the-shelf solutions won’t do.
+
+Are interested in and thoughtful about the impacts of AI technology (see our Charter for examples of our goals) and care deeply about the impact of ML models on people's lives; how to maximize the benefits and mitigate the possible harms.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$385K – $465K • Offers Equity
+
+

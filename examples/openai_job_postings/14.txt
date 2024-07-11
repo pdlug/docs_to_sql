@@ -1,0 +1,79 @@
+Enterprise Security Engineer
+IT - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+Within the OpenAI Security organization, our IT team ensures that our diverse team of researchers, engineers, and staff have the tools they need to work comfortably, securely, and with minimal interruptions. As an Enterprise Security Engineer, you will work in a highly technical and employee-focused environment.
+
+Our IT team is a small and nimble team, where you’ll have the opportunity to dive into a wide breadth of areas and build from the ground up. We’re well-supported and well-resourced and have the mandate to deliver a world-class enterprise security program to our teams.
+
+About the Role
+
+As an Enterprise Security Engineer, you will be responsible for implementing and managing the security of OpenAI's internal information systems’ infrastructure and processes. You will work closely with our IT and Security teams to develop security capabilities, enforce security policies, and monitor internal systems for security threats.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Develop and implement security measures to protect our company's information assets against unauthorized access, disclosure, or misuse.
+
+Monitor internal and external systems for security threats and respond to alerts.
+
+Contribute to and enforce our company's IT and Security policies and procedures.
+
+Work closely with our IT department to harden our infrastructure using best practices in AzureAD, GSuite, Github, and other SaaS tooling.
+
+Advise our employees on best practices for maintaining the security of their endpoints, and office AV and network infrastructure.
+
+Devise novel sharing controls and associated monitoring to protect company data, including  intelligent groups management, Data Loss Prevention (DLP) and other security controls as appropriate.
+
+Employ forward-thinking models like “secure by default” and “zero trust” to create sustainably secure environments for knowledge workers and developers.
+
+Identify and remediate vulnerabilities in our internal systems, adhering to best practices for data security.
+
+Use our own AI-driven models to develop systems for improved security detection and response, data classification, and other security-related tasks.
+
+Educate employees on the importance of data security, and advise them on best practices for maintaining a secure environment.
+
+Contribute to OpenAI's endpoint and cloud security roadmaps by staying up to date with the latest security threats, and making recommendations for improving our security posture.
+
+You might thrive in this role if you have: 
+
+Experience in protecting and managing macOS fleets.
+
+Experience deploying and managing endpoint security solutions (e.g. management frameworks, EDR tools).
+
+Experience with public cloud service providers (e.g. Amazon AWS, Microsoft Azure).
+
+Experience with identity and access management frameworks and protocols, including SAML, OAUTH, and SCIM.
+
+Experience with e-mail security protocols (e.g. SPF, DKIM, DMARC) and controls.
+
+Intermediate or better proficiency with a scripting language (e.g. Python, Bash, or similar).
+
+Knowledge of modern adversary tactics, techniques, and procedures.
+
+Ability to empathize and collaborate with colleagues, independently manage and run projects, and prioritize efforts for risk reduction.
+
+#LI-JK2
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$245K – $310K
+
+

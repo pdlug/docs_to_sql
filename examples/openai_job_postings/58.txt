@@ -1,0 +1,59 @@
+Software Engineer, Financial Tooling
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the team:
+
+The Applied team at OpenAI safely brings cutting-edge technology to the world. We have released groundbreaking products such as ChatGPT, Plugins, DALL·E, and APIs for GPT-4, GPT-3, embeddings, and fine-tuning. Our team also manages large-scale inference infrastructure. With much more on the horizon, our impact continues to grow.
+
+Our customers create fast-growing businesses using our APIs, enabling product features previously unimaginable. ChatGPT exemplifies the current scope of possibilities. We prioritize the responsible use of our powerful tools, valuing safe deployment over unchecked expansion.
+
+Within Applied Engineering, the Financial Engineering team ensures that our diverse products are monetized effectively to accommodate customers' varying needs and scales. Collaborating closely with the GTM and Finance teams, we strive to tailor our billing stack to our evolving internal requirements. We seek an experienced engineer to build internal APIs and tools to support teams who need access to billing data. These tools will be crucial to ensuring Open AI can operate efficiently and increase its level of compliance.
+
+In this role, you will:
+
+Architect and build the next generation of billing and monetization systems at OpenAI.
+
+Design APIs tailored to internal workflows touching all parts of the stack. Support the rest of the team in making data model decisions.
+
+Construct and integrate tools that empower internal teams to seamlessly incorporate billing data into their workflows.
+
+Collaborate closely with a wide array of stakeholders, including the Product, Data, Finance, and Go-To-Market teams, as well as fellow engineers.
+
+You might thrive in this role if you:
+
+Are passionate about building tools for internal teams, understanding their use cases and solving them holistically within a sustainable system.
+
+Possess a minimum of 5 years of professional software engineering experience, with added experience in payments, billing, or monetization seen as a bonus.
+
+Enjoy engaging with various partners, particularly those outside of engineering.
+
+Have a keen and innate desire to learn and acquire new skills, coupled with a strong ability to impart that knowledge clearly and succinctly to others.
+
+Are deeply invested in creating an exceptional user experience, taking pride in crafting products that address customer needs.
+
+Ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines.
+
+OpenAI US Applicant Privacy Policy 
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$310K – $450K
+
+Apply now

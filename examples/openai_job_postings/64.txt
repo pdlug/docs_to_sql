@@ -1,0 +1,63 @@
+Software Engineer, Integrity Foundations
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Integrity team at OpenAI is dedicated to ensuring that our cutting-edge technology is not only revolutionary but also secure from a myriad of adversarial threats. We strive to maintain the integrity of our platforms as they scale. 
+
+The Integrity team is at the front lines of defending against financial abuse, scaled attacks, and other forms of misuse that could undermine the user experience or harm our operational stability. Integrity Foundations provides the core building blocks and infrastructure for this work.
+
+About the Role
+
+At OpenAI, our mission is to advance AI in a way that is safe, reliable, and aligned with broad societal values. The integrity foundations role is crucial for maintaining the trustworthiness of our platforms. You will be pivotal in developing robust defenses against a spectrum of adversarial behaviors that threaten our ecosystem.
+
+In this role, you'll work with our entire engineering team to design and implement systems that detect and prevent abuse, promote user safety, and reduce risk across our platform. You'll be at the forefront of our efforts to ensure that the immense potential of AI is harnessed in a responsible and sustainable manner.
+
+In this role, you will:
+
+Develop and enhance systems to detect and prevent various forms of abuse including financial fraud, botting, and scripting.
+
+Collaborate with cross-functional teams to design solutions that protect against and mitigate adversarial attacks without compromising user experience.
+
+Assist with response to active incidents on the platform and build new tooling and infrastructure that address the fundamental problems.
+
+You might thrive in this role if you:
+
+Have at least 3 years of professional software engineering experience.
+
+Have experience setting up and maintaining production backend services and data pipelines.
+
+Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed.
+
+Are self-directed and enjoy figuring out the best way to solve a particular problem
+
+Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.
+
+Care about AI Safety in production environments and have the expertise to build software systems that defend against abuse.
+
+Build tools to accelerate your own workflows, but only when off-the-shelf solutions would not do.
+
+Our tech stack
+
+Our infrastructure is built on Terraform, Kubernetes, Azure, Python, Postgres, and Kafka. While we value experience with these technologies, we are primarily looking for engineers with strong technical skills and the ability to quickly pick up new tools and frameworks.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$200K – $370K
+
+Apply now

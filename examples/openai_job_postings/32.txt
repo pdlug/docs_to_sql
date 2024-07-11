@@ -1,0 +1,67 @@
+Research Engineer, Security
+Security - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+Security is at the foundation of OpenAI’s mission to ensure that artificial general intelligence benefits all of humanity.  
+
+In addition to protecting OpenAI’s technology, people, and products, the Security Team has the mandate to explore the frontiers of AI and cybersecurity. Our research mission is to create a safer and more secure digital ecosystem by advancing AI research, evaluating and measuring downsides, and applying AI to cyber defense wherever we can do so responsibly.
+
+ 
+
+About the Role
+
+As a Research Engineer on the Security team, you will play a crucial role in exploring the frontiers of AI security, and applications of AI to security. Leveraging your strong research and engineering skills, you will collaborate within Security and our cross-functional partners to develop novel theory, techniques, and methodologies. This role requires a self-motivated, proactive, and resilient team player who can work cross-functionally and drive collaboration and scientific pursuit across the company.
+
+This role is based in San Francisco, CA or London, UK. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Research, design, and implement techniques and methodologies that improve the capability, applicability, and impact of AI models to the cybersecurity domain. Focus areas we are enthusiastic about include identifying issues in source code, binary analysis, patch generation, log analysis, threat intelligence analysis, and automating the incident response lifecycle.
+
+Develop techniques that improve the robustness of AI models.
+
+Develop threat models, systems, and methodologies for measuring the cybersecurity capabilities of models.
+
+Drive the adoption of AI-forward security methodologies within OpenAI and across the broader ecosystem.
+
+Collaborate with colleagues across OpenAI on security research.
+
+Engage with the security and AI research communities, including via initiatives like the Cybersecurity Grant Program.
+
+Experiment with new tools and technologies to expand the effectiveness of security measures implemented within the company.ncy and effectiveness, ensuring robustness and scalability of security solutions.
+
+You might thrive in this role if you:
+
+Have a track record of delivering meaningful results in security, privacy, and/or AI research.
+
+Have an in-depth understanding of modern AI concepts including language modeling and deep learning.
+
+Strong software development proficiency including systems programming and at least one of Python, Golang, or similar.
+
+Proven track record of developing high-quality, scalable, and secure applications.
+
+Are an extreme self-starter who wants to get your hands dirty and lead from the front.
+
+Ability to work collaboratively and effectively in a cross-functional team environment.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $440K • Offers Equity
+
+Apply now

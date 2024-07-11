@@ -1,0 +1,63 @@
+Endpoint Engineer
+IT - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+OpenAI’s IT organization supports the mission of deploying artificial general intelligence (AGI) for the benefit of all. Our team is committed to providing seamless technological support and solutions to ensure that all OpenAI employees are well-equipped and connected. This enables them to contribute effectively towards our AI research, corporate operations and product initiatives. 
+
+About the Role
+
+As an Endpoint Engineer at OpenAI, you will play a pivotal role in maintaining and shaping the overall experience of our employee endpoints, specifically focusing on our Mac laptop and corporate iPhone fleet. Your responsibilities will include ensuring that these endpoints are optimally set up for a variety of use cases, including advanced security configurations, seamless software deployments, and efficient troubleshooting processes. This role requires a proactive approach to monitor and address the needs of our diverse team, contributing to the development of scalable solutions that enhance the effectiveness of our endpoint program. By keeping our systems reliable and responsive, you will directly impact the agility and efficiency of our work at OpenAI. 
+
+ This is a hybrid role and will require 3 days a week in our San Francisco office.
+
+In this role, you will:
+
+Manage our MDM and adjacent systems
+
+Develop and implement robust patch policies and create custom application installers
+
+Customize and streamline the deployment of endpoints tailored to diverse user stories
+
+Collaborate closely with our enterprise security team to ensure all devices comply with the latest security standards and company policies
+
+Lead initiatives to move towards a collaborative endpoint management program through the use of source control
+
+Implement a zero-touch setup process for all new endpoints, leveraging automation to enhance the efficiency and user experience of our onboarding process.
+
+You may be a fit for this role if you have:
+
+Deep technical mastery of MacOS and iOS environments, with substantial experience managing these systems at scale within a hyper-growth company. You should be adept at handling rapid changes in infrastructure and user needs.
+
+Advanced scripting skills in Python and Bash, with proven ability to automate processes, develop tools, and integrate systems that significantly improve operational efficiency and user experiences.
+
+ Extensive experience with MDM solutions, particularly Jamf Pro, ensuring comprehensive management, security, and compliance of MacOS and iOS devices.
+
+Expertise in deploying and managing large fleets of Macs and iOS devices, with a strong understanding of network configurations, security protocols, and troubleshooting practices in large-scale environments.
+
+ Demonstrated capability in source control tools and practices, contributing to a collaborative endpoint management program that aligns with modern DevOps and agile methodologies.
+
+ Experience in implementing zero-touch setup processes for endpoints, streamlining device deployment, and maintenance without compromising security or user productivity.
+
+Proficiency in creating robust patch policies and custom application installers that meet the stringent requirements of a fast-paced, security-conscious organization.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$225K – $275K • Offers Equity
+
+

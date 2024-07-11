@@ -1,0 +1,62 @@
+Full Stack Engineer, Communications & Design
+Communications Design - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+Communications Design tells OpenAI’s story—what we’re doing and why it matters—to the world through a variety of surfaces, most notably openai.com. Our small but nimble and growing team supports the design and development needs across the entire company, and sits within a larger team of professionals in press relations, public policy, and employee communications.
+
+Communicating the advances and benefits of AGI is some of the most important work at OpenAI, and our goal is to do it in a beautiful, accessible, scalable, systematic way, with transparency and authenticity.
+
+About the Role
+As the first Full-Stack Developer on the Communications Design team, you will help design, deploy and maintain our web platform, which serves millions of people each day. This includes building out new features, optimizing performance, and improving accessibility around the world and building systematic solutions to support a fast growing organization. Our current infrastructure consists of a NextJS frontend with a headless CMS, you will play a pivotal role in evolving this to the company’s needs as we grow.
+
+ 
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role you will:
+
+Architect, build and deploy critical pieces of infrastructure like, data pipelines, localization, and support for A/B experimentation
+
+Improve user experience for visitors around the world by improving site performance and functionality
+
+Author internal products and tools allowing the team and others at OpenAI to deliver on company strategies with increased velocity
+
+Work with a group of talented front-end developers, designers, and producers as well a cross-functional stakeholders from all around the company
+
+You might thrive in the role if you:
+
+Have at least 6 years of backend and or full stack development experience with emphasis on API design
+
+Have excellent written and verbal communication skills to work effectively with cross-functional teams and stakeholders
+
+Care deeply about quality, functionality, and the humans we’re communicating to by sweating the details, down to the last page request
+
+Are innately curious
+
+Enjoy (in fact, prefer) working quickly
+
+About OpenAI
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$245K – $385K
+
+

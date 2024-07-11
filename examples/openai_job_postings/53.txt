@@ -1,0 +1,65 @@
+Software Engineer, Data Acquisition
+Pre-training - San Francisco
+
+Apply now(opens in a new window)
+Overview:
+
+The Data Acquisition team within the Pre-training organization at OpenAI is responsible for all aspects of data collection to support our model training operations. Our team manages web crawling and GPTBot services and works closely with Data Processing, Architecture, and Scaling teams. We are looking for a skilled Senior Software Engineer to join our Data Acquisition team.
+
+
+Responsibilities:
+
+Own and lead engineering projects in the area of data acquisition including web crawling, data ingestion, and search.
+
+Collaborate with other sub-teams, such as Data Processing, Architecture, and Scaling, to ensure smooth data flow and system operability.
+
+Work closely with the legal team to handle any compliance or data privacy-related matters.
+
+Develop and deploy highly scalable distributed systems capable of handling petabytes of data.
+
+Architect and implement algorithms for data indexing and search capabilities.
+
+Build and maintain backend services for data storage, including work with key-value databases and synchronization.
+
+Deploy solutions in a Kubernetes Infrastructure-as-Code environment and perform routine system checks.
+
+Conduct and analyze experiments on data to provide insights into system performance.
+
+
+Qualifications:
+
+BS/MS/PhD in Computer Science or a related field.
+
+5+ years of industry experience in software development.
+
+Experience with large web crawlers a plus
+
+Strong expertise in large stateful distributed systems and data processing.
+
+Proficiency in Kubernetes, and Infrastructure-as-Code concepts.
+
+Willingness and enthusiasm for trying new approaches and technologies.
+
+Ability to handle multiple tasks and adapt to changing priorities.
+
+Strong communication skills, both written and verbal.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$310K – $385K
+
+Apply now

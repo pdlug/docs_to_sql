@@ -1,0 +1,61 @@
+Research Engineer, AI Security & Privacy
+Safety Systems - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Safety Systems team is responsible for various safety work to ensure our best models can be safely deployed to benefit society. It is at the forefront of OpenAI's mission to build and deploy safe AGI, driving our commitment to AI safety and fostering a culture of trust and transparency
+
+As the cutting edge AI models get deployed to the real world at fast speed, we are facing emergent challenges in the security and privacy domains that are specific to large language models. More research and learning from practical deployment is needed to develop principled solutions for problems, including but not limited to, model inversion or data extraction prevention, knowledge unlearning, anti-regurgitation, fine-tuning safety, privacy-aware data flywheel and protection against data poisoning.
+
+We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. 
+
+About the Role
+
+We are seeking strong research engineers for pioneering methodologies and implementing systems to reduce risks of various AI security and privacy research challenges during model deployment. You will have an opportunity to shape the vision of this problem domain, work on the cutting edge of AI research, and collaborate closely with cross-functional teams to improve AI security and privacy protection of our models and systems.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Design, implement, and evaluate novel methods to protect AI models and systems from threats such as data extraction and model inversion attacks.
+
+Collaborate with the Post Training team to integrate privacy-preserving techniques into AI model development.
+
+Lead efforts in researching and implementing solutions to mitigate risks proactively associated with data poisoning, membership inference attacks and more.
+
+Work closely with cross-functional teams to establish security and privacy best practices and guidelines for model deployment.
+
+You might thrive in this role if you:
+
+Are strongly motivated by OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter
+
+Hold a Ph.D. or other degree in computer science, AI, machine learning, or a related field.
+
+Have 3+ years of experience in the field of AI security and privacy research for deep learning models, especially in areas like membership inference, privacy-preserving ML, adversarial attacks.
+
+Have an in-depth understanding of deep learning research and/or strong engineering skills, particularly proficient in programming languages such as Python and machine learning frameworks like PyTorch (preferred) or TensorFlow.
+
+Stay goal-oriented instead of method-oriented, and are not afraid of tedious but high-value work when needed.
+
+Are a team player who enjoys collaborative work environments.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $440K
+
+Apply now

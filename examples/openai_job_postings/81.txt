@@ -1,0 +1,79 @@
+Solutions Architecture Manager, America West
+Technical Success - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Success team is responsible for the customer experience on both the OpenAI API platform as well as the ChatGPT business product, ensuring developers and enterprises maximize benefit, value, and adoption from our highly-capable models. OpenAI's customers represent a range of diverse backgrounds and maturity, from early-stage startups to established global enterprises.
+
+About the Role
+
+We are looking for a Solutions Architecture leader to be responsible for overseeing all technical aspects of the implementation process of our most strategic platform customers, ensuring developers and enterprises maximize benefit, value, and adoption from our highly-capable models. They need to be a technical leader who represents the voice of the customer, aligning our customer-facing technical teams around a unified and exceptional experience across the customer lifecycle. They are crucial to the success of our GTM strategy and will have a significant influence in shaping the direction of our technology and those who adopt it.
+
+They will oversee the west coast Solutions Architecture team, primarily supporting the Large Enterprise and Strategic segments.
+
+This role is based in our San Francisco HQ. We offer relocation support to new employees.
+
+In this role, you will:
+
+Craft and continuously refine the strategic vision for OpenAI's Solutions Architecture team, aligning it with broader company objectives and the evolving needs of our diverse clientele.
+
+Lead and mentor a multifaceted team through the entire implementation cycle, fostering an environment that promotes seamless customer engagement, maximum adoption, and scalability.
+
+Represent the technical voice of our customers, ensuring their needs and feedback are integral in our product development and enhancement processes.
+
+Collaborate with cross-functional teams including GTM, Product, Engineering, and Research, ensuring synergy and cohesion in our customer engagement strategies.
+
+Act as the primary technical contact for key clients, building trust and a direct line of communication with executive-level stakeholders.
+
+Proactively address customer challenges, providing tailored solutions and feedback to internal teams to continuously improve our offerings.
+
+Be a thought leader in the industry, advocating for the effective and innovative application of our AI technologies across various sectors.
+
+Champion a customer-first approach within the organization, inspiring your teams to always prioritize client satisfaction and success.
+
+You might thrive in this role if you: 
+
+Strong track record of building and leading a large multi-disciplinary technical customer-facing organization across the customer lifecycle, preferably for a platform enterprise product (ideally AI-related).
+
+Strong technical background and exhibit deep technical knowledge of platform and first-party technologies and their applications (ideally AI-related).
+
+Extensive experience constructing and implementing technical success strategies at scale. 
+
+Demonstrates ability to inspire, motivate, and provide direction to a high-performing technical team.
+
+Embodies a customer-centric ethos, and rallies others around a customer-centric mission.
+
+Experience with data analysis tools and methodologies to measure the success and efficiency of the technical success operations. The ability to use data to guide strategy and make informed decisions is critical.
+
+Humble attitude, an eagerness to help others, and a desire to pick up whatever knowledge you're missing to make both your team and our customers succeed.
+
+Operates with high horsepower, has strong problem-solving skills, and effectively prioritizes.
+
+Personally committed to fostering the safe and ethical evolution of AI.
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records. 
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI US Applicant Privacy Policy
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$280K – $345K
+
+Apply now

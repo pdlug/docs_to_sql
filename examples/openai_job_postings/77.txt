@@ -1,0 +1,61 @@
+Software Engineer, Supercomputing Storage
+Supercomputing - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+Storage Infrastructure provides APIs for data access, placement, and lifecycle management, while ensuring that the storage systems’ capacity, throughput, and IOPs satisfy the needs of our AI researchers. Scalability, reliability, security, and usability are the core concerns of the team.
+
+ 
+
+About the Role
+
+As an engineer on the Storage Infrastructure team, you will design, build, and operate Exascale systems to scalably and reliably manage our research data across multiple regions.
+
+We’re looking for distributed systems engineers who have worked on exascale data management systems or distributed filesystems.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Develop software to manage exascale data, and make it accessible to researchers
+
+Drive the reliability, predictability, and cost effectiveness of our storage systems
+
+Interface with researchers to understand and accommodate data use-cases
+
+Ensure the security of our critical datasets
+
+ 
+
+You might thrive in this role if you:
+
+Have a deep understanding of distributed systems principles and a proven track record in designing and building scalable, reliable, and secure storage solutions.
+
+Possess strong programming skills
+
+Have experience working in public clouds (especially Azure)
+
+Are familiar with AI/ML data access patterns
+
+Bias for action and comfort building in a fast paced, dynamic environment
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $530K • Offers Equity
+
+Apply now

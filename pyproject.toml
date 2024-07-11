@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "docs_to_sql"
+version = "0.1.0"
+description = ""
+authors = ["Paul Dlug <paul.dlug@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+instructor = "^1"
+python-dotenv = "^1"
+pydantic-settings = "^2"
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1"
+ruff = "^0"
+pre-commit = "^3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.mypy]
+files = ["src"]
+strict = "true"

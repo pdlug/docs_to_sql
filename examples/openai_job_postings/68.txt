@@ -1,0 +1,53 @@
+Software Engineer, Networking
+Platform - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Platform Networking team is responsible for the collective communication stack used in our largest training jobs. Using a combination of C++ and CUDA we work on novel collective communication techniques that enable efficient training of our flagship models on our largest custom built supercomputers.
+
+The models we train are key ingredients to the AI research progress at OpenAI and the field as a whole, and we continually incorporate learnings from our entire research org into our training platform. 
+
+About the Role
+
+As a Software Engineer, Networking you will design and implement custom networking collectives that are tightly integrated into our training stack.
+
+We’re looking for people who have a background in low level performance critical software. Experience with collective communication is a bonus.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Collaborate closely with ML researchers to design and implement efficient collective operations in C++ and CUDA.
+
+Ensure that our largest training jobs take full advantage of the different network transports used in our supercomputers.
+
+Work on simulations to inform our future supercomputer network designs. 
+
+You might thrive in this role if you:
+
+Have written distributed algorithms using RDMA in the past.
+
+Are comfortable writing low level performance sensitive CPU and/or GPU code.
+
+Are familiar with network simulation techniques.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$360K – $530K
+
+

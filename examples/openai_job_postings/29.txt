@@ -1,0 +1,47 @@
+Research Engineer, Privacy
+Security - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+Privacy is a cornerstone of our mission at OpenAI. As a part of the Privacy Team, you will work on the frontlines of safeguarding user data while ensuring the usability and efficiency of our AI systems. You will help us understand and implement the latest research in privacy-enhancing technologies such as differential privacy, federated learning, and memorization in a large language model. Moreover, you will focus on investigating the interaction between privacy and machine learning, developing innovative techniques to improve data anonymization, and preventing model inversion and membership inference attacks.
+
+Your responsibilities could involve designing privacy-preserving machine learning algorithms, enhancing the privacy guarantees of our AI models, and studying the trade-offs between model performance and data privacy. You will also work on creating privacy standards and guidelines for AI system development and deployment, and conduct exploratory research to mitigate the unintended consequences of AI and machine learning on privacy. You will have the opportunity to collaborate with various teams at OpenAI to integrate privacy-enhancing methods into our AI systems.
+
+Your work will not only contribute to OpenAI’s goal of ensuring artificial general intelligence (AGI) benefits all of humanity but will also help shape the discourse on privacy in the age of AI, fostering a broader impact on the technology industry and society at large.
+
+About the Role
+
+In this role, you must:
+
+Have strong programming skills
+
+Have experience working in large distributed systems
+
+Be excited about OpenAI’s approach to research
+
+This role may be a great fit if you:
+
+Are interested in and thoughtful about the impacts of AI technology
+
+Have past experience in creating high-performance implementations of deep learning algorithms
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $440K
+
+Apply now

@@ -1,0 +1,69 @@
+Engineering Manager, AI Inference Systems
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Applied AI team safely brings OpenAI's technology to the world. We released ChatGPT, Plugins, DALL·E, and the APIs for GPT-4, GPT-3, embeddings, and fine-tuning. We also operate inference infrastructure at scale. There's a lot more on the immediate horizon.
+
+We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.
+
+We serve end-users directly through ChatGPT, and serve developers through our APIs, which power product features that were never before possible. 
+
+About the Role
+
+Model inference at OpenAI is powered through a single service we call our "Engine". The Engine wraps the PyTorch transformers which are GPT-4 and ChatGPT. We are looking for an engineering manager to help lead some of the critical work for this service and grow the team.
+
+In this role, you will:
+
+Own substantial portions of our inference stack
+
+Ensure we have the ability to run GPT-4, ChatGPT, and future models at increasingly high scale with increasing efficiency
+
+Hire world-class AI systems engineers in one of the most competitive hiring markets
+
+Coordinate the inference needs of OpenAI's teams and products
+
+Create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think
+
+You might thrive in this role if you:
+
+Have 3+ years of experience in engineering management and 7+ years as an IC working with high scale distributed systems and ML systems.
+
+Have experience with ML systems, particularly high scale distributed inference for modern LLMs.
+
+Have experience with highly available, reliable, production grade systems at scale
+
+Have familiarity with the latest AI research and working knowledge of how these systems are efficiently implemented
+
+Care deeply about diversity, equity, and inclusion, and have a track record of building inclusive teams
+
+Have experience closing extremely competitive candidates for your team, and the ability to craft and convey compelling visions of the future
+
+Have a voracious and intrinsic desire to learn and fill in missing skills—and an equally strong talent for sharing learnings clearly and concisely with others
+
+Are comfortable with ambiguity and rapidly changing conditions. You view changes as an opportunity to add structure and order when necessary
+
+As technical context: at the heart of our infrastructure is a large-scale deployment of GPU nodes running in dozens of Kubernetes clusters across regions. Some core technologies we build with include Python, PyTorch, CUDA, Triton, Redis, Infiniband, NCCL, NVLink
+
+This role is exclusively based in our San Francisco HQ. We offer relocation assistance to new employees.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$350K – $500K
+
+

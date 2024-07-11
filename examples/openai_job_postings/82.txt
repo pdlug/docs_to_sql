@@ -1,0 +1,73 @@
+Solutions Engineer, API Platform
+Technical Success - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Technical Success team is responsible for the customer experience on both the OpenAI API platform as well as the ChatGPT Enterprise product, ensuring developers and enterprises maximize benefit, value, and adoption from our highly-capable models. OpenAI's customers represent a range of diverse backgrounds and maturity, from early-stage startups to established global enterprises.
+
+About the Role
+
+We are looking for a technically savvy and business-minded Solutions Engineer to join a foundational team and collaborate directly with our large prospective customers as they evaluate and start building on our API platform. 
+
+You are crucial to the success of these early adopters and will be instrumental in guiding their AI strategy. You will ultimately be responsible for understanding and responding to our customer’s pre-sales needs, helping customers understand the value of our solutions, and recommending architecture patterns to kickstart their implementation and development. You will collaborate closely with the Sales, GRC, and Product teams. 
+
+This role is based in our San Francisco HQ. We offer relocation support to new employees.
+
+In this role, you will:
+
+Deliver an exceptional pre-sales customer experience.
+
+Provide technical expertise in the pre-sales process, outlining the value proposition, clarifying technical requirements, and answering API and LLM-related questions.
+
+Demonstrate how leveraging OpenAI APIs can meet customers’ business needs and deliver substantial business value, achieving this by building and presenting demos, scoping use cases, recommending architecture patterns, and providing in-depth technical advisory.
+
+Create and maintain documentation, guides, and FAQs related to common questions and requirements discovered during the pre-sales process.
+
+Develop and nurture strong customer relationships during the evaluation and validation process.
+
+Foster customer advocacy and represent the voice of the customer with internal teams, gathering and relaying customer feedback and identifying themes across customers to incorporate into product planning.
+
+Collaborate closely with the Sales and post-sales Solutions Architecture teams to ensure a seamless customer experience.
+
+You might thrive in this role if you: 
+
+Have 7+ years of experience in a Solutions Engineer (or similar) role, managing relationships with large, global, and complex organizations, preferably working with a technical enterprise software or API-based product.
+
+Are proficient in Python and/or JavaScript.
+
+Built and/or delivered prototypes on top of our API platform.
+
+Can proactively identify opportunities for maximizing our customers’ business value through leveraging the OpenAI API.
+
+Have a solid track record of delivering and scaling an exceptional pre-sales customer experience.
+
+Possess exceptional presentation and communication skills, particularly when engaging with executives and leaders.
+
+Have a humble attitude, an eagerness to help others, and a desire to pick up whatever knowledge you're missing to help both your team and our customers succeed.
+
+Operate with high horsepower, have strong problem-solving skills, are adept at frequent context switching, effectively manage working on multiple projects at once with expansive ownership, and ruthlessly prioritize.
+
+Are personally committed to fostering the safe and ethical evolution of AI.
+
+#L1-JV1
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$220K – $345K
+
+Apply now

@@ -1,0 +1,57 @@
+Machine Learning Engineer, Retrieval & Search
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+We bring OpenAI's technology to the world through products like ChatGPT and the OpenAI API.
+
+We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.
+
+About the Role
+
+We are looking for an experienced machine learning engineer to work on retrieval & search problems across our API and ChatGPT. As the AI landscape has evolved over the last few years, retrieval & search have emerged as key use cases for our models, and we are investing in ensuring that we can offer these search-based product experiences for our users. You will be at the center of our retrieval & search efforts as a company, and the progress you drive here will reach millions of end users.
+
+In this role, you will:
+
+Work on retrieval & search algorithms and methodologies in close collaboration with our research team, including problems in such domains as document search, enterprise search, knowledge retrieval, and web-scale search.
+
+Deploy these search methodologies into production in both the API and ChatGPT to be used by millions of end users.
+
+Explore novel research topics in retrieval & search that may inform our product strategy in the medium and long term.
+
+Partner with researchers, engineers, product managers, and designers to bring new features and research capabilities to the world
+
+Help create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think
+
+You might thrive in this role if you:
+
+Have extensive prior experience building and maintaining production machine learning systems.
+
+Have prior experience working with vector databases, search indices, or other data stores for search and retrieval use cases
+
+Have prior experience building and iterating on internet-scale search systems
+
+Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done
+
+Have the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$310K – $550K
+
+Apply now

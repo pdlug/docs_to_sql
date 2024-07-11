@@ -1,0 +1,53 @@
+Research Engineer, Trustworthy AI
+Policy Research - San Francisco
+
+Apply now(opens in a new window)
+About the team
+
+The Trustworthy AI team works on action relevant or decision relevant research to ensure we shape A(G)I keeping societal impacts in mind and works on interventions to increase readiness. This includes work on full stack policy problems such as AI provenance, anthropomorphism of AI. We aim to translate nebulous policy problems to be technically tractable and measurable. We then use this work to inform and build interventions that increase societal readiness for increasingly intelligent systems. Our team also works on external assurances for AI (Eg. external red teaming, 3rd party verification) with an aim for increasing independent checks and forming additional layers of validation.
+
+About the role
+
+We are looking to hire exceptional research engineers that can push the rigor of work needed to increase societal readiness for AGI. Specifically, we are looking for those that will enable us to translate nebulous policy problems to be technically tractable and measurable.
+
+This role is based in our San Francisco HQ. We offer relocation assistance to new employees.
+
+In this role, you will enable: 
+
+Increasing rigor of external assurances by turning external findings into robust evaluations
+
+Carrying out research into decision relevant full stack policy problems such as anthropomorphism and AI
+
+Building tactical tools that encourage societal readiness for AGI
+
+You might thrive in this role if you: 
+
+Possess 2-3+ years of research engineering experience and proficiency in Python or similar languages or similar academic
+
+Thrive in environments involving large-scale AI systems and multimodal datasets
+
+Past experience in interdisciplinary research a plus
+
+Exhibit proficiency in the field of AI safety, focusing on topics like RLHF, adversarial training, robustness, fairness & biases, which is extremely advantageous.
+
+Show enthusiasm for socio-technical topics
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $340K
+
+

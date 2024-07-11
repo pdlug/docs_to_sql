@@ -1,0 +1,57 @@
+Senior Software Engineer, iOS Growth
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The ChatGPT team works across research, engineering, product, and design to bring OpenAI’s technology to the world.
+
+We seek to learn from deployment and broadly distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. We aim to make our innovative tools globally accessible, transcending geographic, economic, or platform barriers. Our commitment is to facilitate the use of AI to enhance lives, fostered by rigorous insights into how people use our products.
+
+ 
+
+About the Role
+
+We are looking for an experienced iOS engineer to join our new ChatGPT Growth team to spearhead high-impact projects that amplify the user base of ChatGPT and Plus Subscribers. Your role will include projects such as optimizing account access, notifications, SEO, fostering value discovery, and virality. As we are in the nascent stages of growth at OpenAI, we will rely on you to discover pivotal areas where strategic bets or incremental efforts can catalyze significant impact. We value engineers who are impact-driven, autonomous, adept at discerning crucial insights from experimental results, and have a strong intuition for how to remove barriers to unlocking the magic of ChatGPT.
+
+In this role, you will:
+
+Drive long-term growth of ChatGPT through a combination of data analysis, product ideation, and experimentation to optimize product experiences.
+
+Plan and deploy mobile platform infrastructure necessary to build, test, and deploy these product experiences.
+
+Execute on projects by working closely with research, product, design, data science and other members of product teams to land impact on product goals.
+
+Create a diverse and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group-think.
+
+You might thrive in this role if you:
+
+Shipped features on iOS that optimize the user funnel, such as landing pages, product pages, purchase flows, search flows, etc.
+
+Are highly analytical and have experience designing and implementing A/B tests, with a scientific approach to data-based experiments. You know exactly what and how to track business metrics and KPIs.
+
+Have a voracious and intrinsic desire to learn and fill in missing skills. An equally strong talent for sharing that information clearly and concisely with others
+
+Are comfortable with ambiguity and rapidly changing conditions. You view changes as an opportunity to add structure and order when necessary
+
+ 
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$200K – $385K
+
+Apply now

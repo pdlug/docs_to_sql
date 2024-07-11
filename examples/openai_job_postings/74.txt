@@ -1,0 +1,57 @@
+Software Engineer, Supercomputing, HPC Infrastructure
+Supercomputing - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+We believe that increasing compute is a huge lever to AI progress.
+
+The Supercomputing team owns the entire process of building OpenAI’s compute and infrastructure. This includes the deployment of huge clusters using Kubernetes and Azure, and building the internal experiment platform for running/training the world’s largest AI models.
+
+We work at the very cutting edge of speed and scale, combining the traditions of High-Performance Computing (HPC) in a modern cloud and containerized environment.
+
+We build some of the largest Supercomputers in the world. When our Owl cluster launched it in 2019 it would've been among the top 5 of the TOP500 supercomputers in the world. Since then we've only continued to grow. See this blog post to get a sense of what kind of challenges we solve in our day-to-day work: Scaling Kubernetes to 7,500 Nodes
+
+You won’t encounter any other organization in the world with as much compute per employee. We are a small team that moves quickly, with access to huge resources, working with a direct impact on the success of OpenAI and, by extension, the field of AI as a whole.
+
+About the Role
+
+In this role, you will work closely with machine learning researchers, but don't need to be a machine learning expert yourself. We value people who can quickly obtain a deep technical understanding of new domains and enjoy being self-directed and identifying the most important problems to solve. Experience with high-performance computing, or open-source contributions is a bonus. 
+
+You might thrive in this role if you:
+
+Have experience designing, implementing, and running production services and highly available distributed systems
+
+Have worked with highly performant bare-metal systems
+
+Have helped a team mature with standardized tools and processes around stability, observability, and scaling
+
+Have experience running large Kubernetes clusters with GPU workloads, in the range of 500-1,000 nodes and GPUs
+
+Have experience working with Azure or other cloud platforms such as AWS or GCP
+
+Know your way around bash, Terraform, Python, and/or Chef
+
+Are confident in managing and monitoring large-scale infrastructure deployments
+
+Can debug problems across the stack, such as networking issues, performance problems, or memory leak
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $530K • Offers Equity
+
+

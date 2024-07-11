@@ -1,0 +1,67 @@
+Stream Infrastructure Engineer
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+You’ll join the team that’s behind OpenAI’s data infrastructure that powers critical engineering, product, alignment teams that are core to the work we do at OpenAI. 
+
+The Streaming Infrastructure team within Data Platform is responsible for building and maintaining our streaming platform. This platform plays a crucial role in facilitating the seamless exchange of data across various systems within OpenAI and serves as a foundational component of our infrastructure.
+
+Our team is focused on supporting distributed event buses to support the growing scalability and reliability needs of OpenAI's products and services. We enable other teams within OpenAI by offering intuitive abstractions and self-service tools to empower users in managing their services efficiently. Our commitment to operational excellence is reflected in our ongoing efforts to automate maintenance operations and reduce operational overhead.
+
+We are looking for engineers who are excited about event-driven streaming architecture and tackling complex challenges related to distributed systems. In addition to technical expertise, we value the ability to build collaborative relationships with other teams at OpenAI, understanding their unique use-cases, and working together to unlock new capabilities.
+
+About the Role
+
+The Applied Data Platform team designs, builds, and operates the foundational data infrastructure that enables products and teams at OpenAI.
+
+You should be experienced working with streaming platforms such as Azure EventHub, Apache Kafka, Apache Flink or Amazon Kinesis. You’re comfortable with infrastructure tooling such as Terraform, worked with Kubernetes, and have the skillsets of a SRE. 
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Maintain the health and operability of critical data infrastructure systems such as Kafka, Azure EventHub while ensuring scalability, reliability, and security 
+
+Ensure our data platform can scale reliably to the next several orders of magnitude
+
+Accelerate company productivity by empowering your fellow engineers & teammates with excellent data tooling and systems, providing a best in case experience
+
+Bring new features and capabilities to the world by partnering with product engineers, trust & safety and other teams to build the technical foundations
+
+Like all other teams, we are responsible for the reliability of the systems we build. This includes an on-call rotation to respond to critical incidents as needed 
+
+You might thrive in this role if you: 
+
+Have 4+ years in stream infrastructure engineering maintaining Kafka, Azure EventHub, AWS Kinesis, etc.
+
+Have 4+ years in infrastructure engineering with a strong interest in streaming systems
+
+Take pride in building and operating scalable, reliable, secure systems
+
+Are comfortable with ambiguity and rapid change
+
+Have a voracious and intrinsic desire to learn and fill in missing skills—and an equally strong talent for sharing learnings clearly and concisely with others
+
+This role is exclusively based in our San Francisco HQ. We offer relocation assistance to new employees.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$200K – $385K
+
+Apply now

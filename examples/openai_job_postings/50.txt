@@ -1,0 +1,63 @@
+Software Engineer, Backend
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+We bring OpenAI's technology to the world through products like ChatGPT and the OpenAI API. Our customers build fast-growing businesses around our APIs, which power products that were never before possible. We simultaneously ensure that our powerful tools are used responsibly. Safe deployment is more important to us than unfettered growth.
+
+The Engineering team manages a massive fleet of GPUs with scalable, robust infrastructure powered by Kubernetes, Go, Python, Terraform, Kafka, Postgres, and Snowflake.
+
+About the Role
+
+We’re looking for experienced and creative engineers to help us scale our existing systems and build the next-generation system to enable a whole new class of products. We are seeking an engineer who is comfortable with full-stack development and has experience with Real-Time Communication (RTC). Candidates should have experience with scaled real-time communication systems in production.
+
+Responsibilities
+
+Design and build development and production platforms that power our systems.
+
+Partner with researchers, engineers, product managers, and designers to bring new features and research capabilities to the world.
+
+Accelerate engineering productivity by empowering your fellow engineers with excellent tooling and systems.
+
+Help create a diverse, equitable, and inclusive culture that makes everyone feel welcome while enabling radical candor and challenging groupthink.
+
+Build and provide operational support for globally deployed systems, powering some of the most advanced products in the market. This includes participating in an on-call rotation to respond to critical incidents as needed.
+
+Qualifications
+
+You might thrive in this role if you:
+
+Have significant experience building (and rebuilding) production systems to deliver new product capabilities and handle increasing scale.
+
+Have experience with real-time communication products and systems, including audio and video calling, WebRTC or competing protocols, encoding/decoding, signaling, lip sync, etc.
+
+Care deeply about user experience and take pride in building products that solve customer needs.
+
+Have a humble attitude, eagerness to help colleagues, and a willingness to do whatever it takes to make the team succeed.
+
+Own problems end-to-end and are willing to pick up any necessary knowledge to get the job done.
+
+Have been a startup founder or an early-stage engineer.
+
+Experience in Machine Learning techniques is a plus but not required.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$160K – $385K
+
+

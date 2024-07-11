@@ -1,0 +1,71 @@
+Research Engineer, Human Data
+Human Data - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+OpenAI's Human Data Team creates custom data solutions driving groundbreaking research. Our work enhances and evaluates our flagship models and products like ChatGPT, GPT-4o, and Sora and contributes to safety initiatives through collaboration with our Preparedness and Safety Systems teams.
+
+We work with AI trainers to gather specialized data for training and evaluating our models across modalities such as video, audio, text, and tool actions. Our goal is to develop scalable methods and tools and platforms to generate and evaluate high quality data from both synthetic sources and human experts in various fields, including mathematics, sciences, creative writing, programming, art, and safety. We leverage OpenAI models to improve and streamline our data collection and quality processes.
+
+We're looking for individuals with strong ML engineering skills, research experience, and a deep understanding of Human-Machine Interaction challenges, especially with novel and highly capable models.
+
+About the Role
+
+In this role you might:
+
+Design, execute, and analyze machine learning experiments to identify improvements to our data.
+
+Write clean non-ML code, for example when building interfaces to our trainers interact with our models or pipelines for managing human data.
+
+Collaborating closely with a small team to balance the need for flexibility and iteration speed in research with the need for stability and reliability in a complex long-lived project.
+
+Understanding our high-level research roadmap to help plan and prioritize future experiments.
+
+Implement and measure the effectiveness of data collection techniques, including Reinforcement Learning from Human Feedback (RLHF) and novel methods
+
+Examine the impact of different model-in-the-loop interventions on data quality
+
+Curate large datasets of prompts and investigate coverage of boundary cases
+
+Train models to predict data quality
+
+Designing novel approaches for using LLMs in supporting humans in evaluating model outputs
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+ 
+
+You might thrive in this role if you:
+
+Hold a Ph.D. or other degree in computer science, AI, machine learning, or a related field.
+
+Have an in-depth understanding of deep learning research and/or strong engineering skills, particularly proficient in programming languages such as Python and machine learning frameworks like PyTorch (preferred) or TensorFlow.
+
+Have a deep understanding of HCI or cognitive science
+
+Are strongly motivated by OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter
+
+Stay goal-oriented instead of method-oriented, and are not afraid of tedious but high-value work when needed.
+
+Are a team player who enjoys collaborative work environments.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $440K • Offers Equity
+
+Apply now

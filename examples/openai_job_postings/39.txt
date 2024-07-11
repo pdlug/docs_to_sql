@@ -1,0 +1,51 @@
+Senior Software Engineer, ChatGPT Model Optimization
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the team
+
+The ChatGPT Capacity and Optimization team manages the largest LLM inference fleet on planet earth. We serve over 100M weekly active users the best model experience at the lowest latency. As the ChatGPT user-base scales, so too does the footprint of the inference fleet, and so too must our sophistication in how we deliver the most value to our users with the resources we have available, which is one of our biggest drivers for further growing our user-base.
+
+About this role
+
+We’re seeking an experienced and hands-on technical lead with an entrepreneurial spirit to maximize the value we can deliver across multiple dimensions and concurrently minimize waste. This is a novel problem space, but you may be able to hit the ground running especially fast if you have experience in:
+
+Real-time ad-serving systems
+
+Two-sided marketplace pricing optimization
+
+Fraud and risk evaluation systems
+
+In this role, you will:
+
+Design and implement algorithms for selectively upgrading users from fast models to more thoughtful ones at the right moment to maximize user growth and retention.
+
+Partner closely with research teams to model capabilities of different LLMs for smart routing at the application layer.
+
+Collaborate with the Inference and Orchestration teams to leverage the latest load-balancing techniques.
+
+Drive down multi-billion-dollar compute budgets with your optimizations.
+
+Help establish and grow the team, and mentor new-hires.
+
+This role is exclusively based in our San Francisco HQ. We offer relocation assistance to new employees.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$160K – $385K
+
+Apply now

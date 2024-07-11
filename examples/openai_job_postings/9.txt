@@ -1,0 +1,47 @@
+Engineering Manager, Model Scheduler
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+We have ambitious goals to make the most capable models broadly available. Being able to distribute these models to billions of users in a reliable fashion requires a world-class compute fleet. 
+
+As we scale the number of GPUs, number of users, and size of OpenAI, having a team dedicated to the infrastructure to support is crucial. 
+
+This EM will be responsible for model scheduling. They will be responsible for automating the placement of models to ensure all our GPUs are doing useful work at all hours of the day.
+
+Skills/experience needed
+
+Experience managing high performing engineering teams in a fast-faced startup environment
+
+Prior experience hiring, managing performance around, and managing out engineers.
+
+Extensive cross-functional collaboration experience across product, design, and business stakeholders.
+
+Technical depth and expertise on scaling infrastructure systems
+
+Coachable/nice to have
+
+Direct experience working with Kubernetes
+
+Experience working with Azure, or cloud infra (AWS, GCP)
+
+Prior experience working at a hypergrowth company, and growing a team in that environment.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$385K
+
+

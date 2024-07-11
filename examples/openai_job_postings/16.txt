@@ -1,0 +1,59 @@
+Full Stack Engineer, Leverage Engineering
+Applied AI - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+We build infrastructure to enable OpenAI to scale. The software we build empowers the OpenAI team to work faster, smarter and more collaboratively.
+
+About the Role
+
+We are looking for a self-starter engineer who loves building new products in an iterative and fast-moving environment. In this role, you will build software from the ground up to solve critical bottlenecks internally, often by applying our large language models. 
+
+This role is cross functional: you’ll interface directly with leaders across the company to identify critical bottlenecks and fix them, and you’ll collaborate with our research teams to learn how to apply our LLMs and share feedback.
+
+ In this role, you will:
+
+Own the full product development lifecycle for new internal infrastructure and product experiences end-to-end
+
+Talk to internal stakeholders to understand their problems and design solutions to address them
+
+Work with the research team to share relevant feedback and iterate on applying their latest models
+
+Collaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations folks to create cutting-edge products
+
+Your background might look something like:
+
+Relevant engineering experience at tech and product-driven companies
+
+Former founder, or early engineer at a startup who built a product from scratch
+
+Proficiency with JavaScript, React, and other web technologies
+
+Proficiency with some backend language (we use Python)
+
+Some experience with relational databases like Postgres/MySQL
+
+Interest in AI/ML (direct experience not required)
+
+Ability to move fast in an environment where things are sometimes loosely defined and you may have competing priorities or deadlines
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$200K – $370K
+
+Apply now

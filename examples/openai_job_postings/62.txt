@@ -1,0 +1,63 @@
+Software Engineer, Infrastructure
+Applied AI Infrastructure - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Applied Engineering team works across research, engineering, product, and design to bring OpenAI’s technology to consumers and businesses.
+
+We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.
+
+About the Role
+
+The Applied Infrastructure team designs, builds, and operates the foundational infrastructure that powers ChatGPT and the API.
+
+In this role, you will:
+
+Design and build the development and production platforms that power our products, enabling reliability and security at scale
+
+Accelerate engineering productivity by empowering your fellow engineers with excellent tooling and systems
+
+Bring new features and research capabilities to the world by partnering with product engineers to lay the necessary technical foundations
+
+Guide and advise product engineering teams on best practices for ensuring observable, scalable systems
+
+Help create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think
+
+Like all other teams, we are responsible for the reliability of the systems we build. This includes an on-call rotation to respond to critical incidents as needed.
+
+You might thrive in this role if you:
+
+Have 8+ years of experience in engineering, including 4+ years of experience in infrastructure
+
+Care deeply about helping to build a diverse, equitable, inclusive culture
+
+Take pride in building and operating scalable, reliable, secure systems
+
+Are comfortable with ambiguity and rapid change
+
+Have a voracious and intrinsic desire to learn and fill in missing skills—and an equally strong talent for sharing learnings clearly and concisely with others
+
+Some of the technologies you’ll be working with include Kubernetes, Python, FastAPI, Cosmos DB, Postgres, and Terraform.
+
+This role is exclusively based in our San Francisco HQ. We offer relocation assistance to new employees.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$160K – $385K
+
+Apply now

@@ -1,0 +1,53 @@
+Software Engineer, Hardware Health
+Platform - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+OpenAI’s Hardware Health team oversees all hardware health related aspects of our custom-built hyperscale supercomputers. The team is responsible for maximizing the available supercomputing capacity for research and ensuring that our researchers are minimally impacted by hardware faults.
+
+The hardware health team is being incubated inside OpenAI’s Research team, which operates at the far edge of all available innovations in AI — doing the engineering and research required to train large-scale AI models of unprecedented capability.
+
+About the Role
+
+As a SWE in Hardware Health, you will work to maintain a sophisticated and comprehensive suite of hardware health tests and collaborate with researchers and our Supercomputing team on root-causing and reliably reproducing newly discovered problems. Prior hardware expertise is not required for this role.
+
+The team moves at a fast pace and provides individuals with a high degree of autonomy and a strong ability to affect change.
+
+An ideal candidate would have:
+
+A balance of building and operational skills
+
+Excellent abilities developing in python and shell scripting
+
+A high degree of comfort digging into noisy data with SQL, PromQL, and Pandas
+
+Experience developing reproducible analyses / building dashboards and visualizations
+
+Proven track record in attention to detail, with examples of identifying and rectifying data anomalies
+
+A strong sense of ownership causing them to very carefully monitor outcome of deployed updates
+
+Prior TL experience (2+ years) as this is a 0-1 effort with team growth on the horizon
+
+Bonus Points if you have expertise and interest in low level details of hardware components, protocols, and associated Linux tooling (e.g., PCIe, Infiniband, networking, power management, kernel perf tuning) or visualization of large data centers and networks.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $440K
+
+Apply now

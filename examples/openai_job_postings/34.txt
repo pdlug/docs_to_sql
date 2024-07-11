@@ -1,0 +1,59 @@
+Research Inference, Tech Lead
+Platform - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+
+The Platform ML team builds the ML side of our state-of-the-art internal training framework used to train our cutting-edge models.  We work on distributed model execution as well as the interfaces and implementation for model code, training, and inference.
+
+
+Our priorities are to maximize training throughput (how quickly we can train a new model) and researcher throughput (how quickly we can develop new models) with the goal of accelerating progress towards AGI.  We frequently collaborate with other teams to speed up the development of new capabilities.
+
+About the Role
+
+We are looking for an experienced Technical Lead to lead critical work on our shared internal inference stack and grow the team.  Our inference stack is primarily built by the Applied AI engineering team and we will improve and extend it for research use cases.
+
+In this role, you will:
+
+Get SOTA throughput for our most important research models.
+
+Reduce the time it takes to get efficient inference for new model architectures.
+
+Collaborate closely with Applied AI engineering to maximize the benefits of our shared internal inference stack.
+
+Create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think.
+
+You might thrive in this role if you:
+
+Have experience with ML systems, particularly high scale distributed training or inference for modern LLMs.
+
+Have familiarity with the latest AI research and working knowledge of how these systems are efficiently implemented.
+
+Have lead large scale engineering projects end-to-end.
+
+Are an expert in core HPC technologies: InfiniBand, MPI, CUDA, OpenAI Triton.
+
+Deep understanding of GPU/hardware accelerators, networking performance and how to maximize multi-device inference throughput (including overlap of compute and communication).
+
+Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to help the team succeed.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$440K – $530K
+
+

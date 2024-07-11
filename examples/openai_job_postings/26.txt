@@ -1,0 +1,94 @@
+Research Engineering Lead, Post-training Evaluation
+Post-training - San Francisco
+
+Apply now(opens in a new window)
+
+About the Team
+
+Our team is responsible for the “post-training” or alignment of the models behind chatGPT and the API. We integrate various improvements from the rest of the company into our RLHF process ultimately producing the models used by millions of users.
+
+ 
+
+About the Role
+
+We are looking for a research/engineering lead to create the next generation of our model evaluation systems with a focus on evaluation infrastructure. This infrastructure is crucial when producing new models and serves as a key metric we do research against. As the models we produce become more and more capable, evaluation becomes a more and more challenging task and we need your help!  
+
+The ideal candidate will have a strong technical background in scientific computing, distributed computing, statistics, and ideally a bit of machine learning. ML research experience is not required but experience in some kind of ML environment is (i.e. applied ML roles). 
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Own evaluation infrastructure + visualizations
+
+Work with researchers to make evaluation a streamlined and high signal process.
+
+Be willing to dive into large, ML codebases to help debug.
+
+Optimize performance, and improve observability of the system.
+
+Incorporate new kinds of evaluations from academic papers, and internal research ideas.
+
+Take ownership over the organization and presentation of results.
+
+You might thrive in this role if you:
+
+Are a team player – willing to do a variety of tasks that move the team forward.
+
+Experience working in complex technical environments
+
+Experience debugging ML systems.
+
+Experience with the python
+
+Experience with kubernetes / distributed infrastructure
+
+Experience with GPU’s
+
+Experience with 1 or more large scale data systems such as beam or spark.
+
+
+
+
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation, Benefits and Perks
+
+The annual salary range for this role is [INCLUDE COMP RANGE]. Total compensation also includes generous equity and benefits.
+
+Medical, dental, and vision insurance for you and your family
+
+Mental health and wellness support
+
+401(k) plan with 4% matching
+
+Unlimited time off and 18+ company holidays per year
+
+Paid parental leave (20 weeks) and family-planning support
+
+Annual learning & development stipend ($1,500 per year)
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$360K – $440K
+
+Apply now

@@ -1,0 +1,51 @@
+Software Engineer, Distributed Systems
+Platform - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Platform Runtime team builds the low level framework components to power our ML training systems.  We work on building robust, scalable, high performance components to support our distributed training workloads.  Our priorities are to maximize the productivity of our researchers and our hardware, with the goal of accelerating progress towards AGI.  
+
+About the Role
+
+As a Distributed Systems engineer, you will work to deliver powerful APIs orchestrating thousands of computers moving and persisting vast amounts of data. This requires both providing easy to use, introspectable systems that can promote a fast debugging and development cycle, while also enabling that experience to scale to our newest supercomputers maintaining stability and performance throughout.
+
+We’re looking for people who love optimizing an end to end system, understanding high performance I/O to maximize local performance and distributed across our supercomputers. We want someone excited by the rapid pace of responding to the dynamic and evolving needs of our training systems architectures.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Work across our Python and Rust stack
+
+Profile and optimize and help design for scale our compute and data capabilities
+
+Work on deploying our training framework to our latest supercomputers rapidly responding to the changing shapes and needs of the ML systems.
+
+You might thrive in this role if you:
+
+Have worked on large distributed systems
+
+Love figuring out how systems work and continuously come up with ideas for how to make them faster while minimizing complexity and maintenance burden
+
+Have strong software engineering skills and are proficient in Python and Rust or equivalent.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$245K – $385K
+
+Apply now

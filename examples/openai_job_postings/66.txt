@@ -1,0 +1,59 @@
+Software Engineer, Model Inference
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+Our team brings OpenAI’s most capable technology to the world through our products. Most recently, we released ChatGPT, GPT-4, the Whisper API, and DALL-E. We empower consumers and developers alike to use and access our start-of-the-art AI models, allowing them to do things that they’ve never been able to before.
+
+Across all product lines, we ensure that these powerful tools are used responsibly. This is a key part of OpenAI’s path towards safely deploying broadly beneficial Artificial General Intelligence (AGI). Safety is more important to us than unfettered growth.
+
+About the Role
+
+We're looking for an engineer to join our team at OpenAI to help us scale up our critical inference infrastructure, which efficiently services every customer request to use our state-of-the-art AI models, including GPT-4 and Dall-E. 
+
+In this role, you will:
+
+Improve the reliability, security, scalability, and observability of our distributed inference infrastructure.
+
+Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues.
+
+Ensure the most efficient use of a constellation of different state-of-the-art AI models deployed on a large, heterogeneous fleet of Azure VMs under Kubernetes.
+
+You might thrive in this role if you:
+
+Have experience with high-throughput scheduling as a service, particularly at supercomputing scale.
+
+Are proficient in testing, debugging, and maintaining systems written in low-level systems languages, particularly C++ or Go.
+
+Either know or can quickly learn the fundamentals of modern AI architectures.
+
+Have at least 3 years of professional software engineering experience.
+
+Know network technologies inside and out from L1 to L7.
+
+Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.
+
+Have a good intuition for when off-the-shelf solutions will work, and build tools to accelerate your own workflow quickly if they won’t.
+
+Have the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$200K – $370K
+
+

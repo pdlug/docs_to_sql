@@ -1,0 +1,57 @@
+Software Engineer, Supercomputing Scheduling
+Supercomputing - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Supercomputing Scheduling Pillar at OpenAI is dedicated to ensuring the reliability, scalability, and user-friendliness of job lifecycle management, with an emphasis on efficient and flexible job scheduling, quota management, and job execution workflows. We maximize researcher productivity by ensuring high goodput, efficient packing, and a consistent, ergonomic training workflow, while scaling to ever larger supercomputers while reducing operational burden to the team.
+
+ 
+
+About the Role
+
+As an engineer in the Scheduling Pillar, you will design, write, deploy, and operate job lifecycle management systems for model training on some of the largest supercomputers in the world. The scale is immense, the timelines are tight, and the organization is moving fast; this is an opportunity to shape a critical system in support of OpenAI's mission.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Design, implement and operate components of our quota management, job scheduling, and queuing systems. In short, you will work on the key user interface to our supercomputers.
+
+Interface with researchers to understand workload requirements
+
+Harmonize job lifecycle features with cluster infrastructure, storage, and hardware health requirements.
+
+ 
+
+You might thrive in this role if you:
+
+Have significant experience with hyperscale scheduling systems
+
+Possess strong programming skills
+
+Have experience working in public clouds (especially Azure)
+
+Execution focused mentality paired with a rigorous focus on user requirements
+
+As a bonus, have an understanding of AI/ML workloads
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $530K • Offers Equity
+
+Apply now

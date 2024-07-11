@@ -1,0 +1,75 @@
+Engineering Manager - Research Platform, Supercomputer Storage
+Platform - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Supercomputing team owns the entire process of building OpenAI’s compute and infrastructure, which includes the deployment of huge clusters using Kubernetes and Azure, and building the internal experiment platform for running/training the world’s largest AI models.
+
+We work at the very cutting edge of speed and scale, combining the traditions of High-Performance Computing (HPC) in a modern cloud and containerized environment.
+
+ 
+
+About the Role
+
+As an engineering manager in the Storage Pillar, you will lead a team to design, build, and operate Exascale systems to scalably and reliably manage our research data across multiple regions.
+
+We’re looking for distributed systems engineering managers who have worked on exascale data management systems or distributed filesystems.
+
+You do not need to be an ML/DL expert to deliver world-class infrastructure, but you do need to be able to quickly obtain a deep technical understanding of new domains.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Directly managing ICs responsible for building the scalability pillar of our Supercomputing organization
+
+Build and grow high performing teams in a deeply iterative, collaborative, fast-paced environment to bring our technology to millions of users around the world, and ensure it’s delivered with safety and reliability in mind.
+
+Design and operate the orchestration and monitoring stack for our supercomputers
+
+Automate everything until we have unprecedented control of our stack
+
+Deeply understand what it means for a supercomputer to be healthy and useful to researchers and enable frontier model training
+
+ 
+
+You might thrive in this role if you:
+
+Are a seasoned technical leader, excited to do hand-on technical work but equally excited to lead technical teams to peak performance.
+
+Deeply understand k8s and other cluster orchestration systems
+
+Have an execution focused mentality paired with a rigorous focus on user requirements
+
+Can create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think.
+
+Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed.
+
+Are experienced in collaborating with cross-functional teams to ensure that reliability and scalability are considered in the design and development of new features and services.
+
+Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.
+
+Have excellent communication skills. Expressing ideas clearly and listening carefully are among the most important requirements for success in this role.
+
+As a bonus, understand of AI/ML workloads
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$360K – $530K • Offers Equity
+
+Apply now

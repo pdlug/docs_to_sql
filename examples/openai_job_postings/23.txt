@@ -1,0 +1,73 @@
+Research Engineer, Collective Alignment
+Policy Research - San Francisco
+
+Apply now(opens in a new window)
+About the team
+
+OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. OpenAI’s Collective Alignment Team works on technical approaches to ensure that AGI is shaped democratically. We plan to do so by implementing a system for collecting and encoding public input on model behavior into our systems. While OpenAI has existing efforts to solve technical alignment, we also need systems to help us determine the answer to the question “What do we align to?”
+
+Regulatory bodies are building up capacity to manage such systems, but may not be up-to-speed on the latest technology. Our best bet is to find more ways to ensure that we are appropriately managing risk and harms that our technologies may pose, including by increasing our ability to make good decisions about system development and deployment. 
+
+One way to increase our ability to make good decisions is to have input from the broader public. We are encouraged by the phenomenal work done by the recipients of our Democratic Inputs to AI grant that we launched in May, which was aimed at exploring and building in the space of governing AI behavior democratically. We selected 10 teams (out of nearly 1000 applicants) who were each awarded $100,000 to build, test, and share learnings from projects that explore how we can use democratic methods to decide the rules that govern AI systems. 
+
+We’re excited to combine our research with ideas and prototypes developed by these teams in the coming months. We will implement a system that can find representative participants to provide their perspectives on a given topic, enable discussion and deliberation, and aggregate inputs into policies that are used to change our model behavior. And we’re looking for excellent, highly motivated Research Engineers to help us.
+
+About the role
+
+We are seeking Research Engineers to help design and implement experiments for collective alignment research. Responsibilities may include:
+
+Writing performant and clean code for ML training.
+
+Independently running and analyzing ML experiments to diagnose problems and understand which changes are real improvements.
+
+Writing clean non-ML code, for example when building interfaces to let workers and participants interact with our models or pipelines for managing human data.
+
+Collaborating closely with a small team to balance the need for flexibility and iteration speed in research with the need for stability and reliability in a complex long-lived project.
+
+Understanding our high-level research roadmap to help plan and prioritize future experiments.
+
+Implement experiments to measure the effectiveness of different preference learning techniques, including RLHF 
+
+Examine the impact of different aggregation methodologies on model behavior
+
+Curate large datasets of prompts and investigate coverage of boundary cases
+
+Exploring methods to understand and predict model behaviors, such as finding inputs causing anomalous circuits or catastrophic outputs
+
+Designing novel approaches for using LLMs in democratic inputs to AI  research
+
+You might thrive in this role if you
+
+Are excited about OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter
+
+Want to use your engineering skills to push the frontiers of what state-of-the-art language models can accomplish
+
+Possess a strong curiosity about the sociotechnical challenges around aligning and understanding ML models, and are motivated to use your career to address this challenge
+
+Enjoy fast-paced, collaborative, and cutting-edge research environments
+
+Have experience implementing ML algorithms (e.g., PyTorch)
+
+Can develop data visualization or data collection interfaces (e.g., JavaScript, Python)
+
+Want to ensure that humanity can shape future powerful AI systems
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $440K
+
+Apply now

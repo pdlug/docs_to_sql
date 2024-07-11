@@ -1,0 +1,71 @@
+Tech Lead Manager, Human Data
+Human Data - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+OpenAI's Human Data Team creates custom data solutions driving groundbreaking research. Our work enhances and evaluates our flagship models and product like ChatGPT, GPT-4o, and Sora and contributes to safety initiatives through collaboration with our Preparedness and Safety Systems teams.
+
+We work with AI trainers to gather specialized data for training and evaluating our models across modalities such as video, audio, text, and tool actions. Our goal is to develop scalable methods and tools and platforms to generate and evaluate high quality data from both synthetic sources and human experts in various fields, including mathematics, sciences, creative writing, programming, art, and safety. We leverage OpenAI models to improve and streamline our data collection and quality processes.
+
+We're looking for a tech lead manager to build teams in a deeply iterative, collaborative, fast-paced environment to bring our technology to millions of users around the world, and ensure it’s delivered with safety and reliability in mind.
+
+About the Role
+
+In this role you might:
+
+Directly manage ICs / TLs on Human Data, a core part of the Research organization. You will collaborate with product managers, researchers, and the rest of our engineering team to create new data and tooling around emerging research capabilities and unsolved customer needs.
+
+Build and grow high performing teams in a deeply iterative, collaborative, fast-paced environment to bring our technology to millions of users around the world, and ensure it’s delivered with safety and reliability in mind.
+
+Be responsible for the team that will architect, build, and design our tooling, infra, products, and evals that power our data collection and management platform, including collecting important training signals from products like ChatGPT, Dall-E, Sora, along with the key interfaces used by our AI human labelers.
+
+Iterate rapidly to improve user and developer experience both for our internal team as well as partner research teams while advancing scalability, performance, observability, and security.
+
+Understand training and eval data needs from across all of OpenAI and research opportunities to improve our platform, and help develop our technical roadmap and prioritization.
+
+Help drive the high leverage projects for our team and ensure our team engagement is high and team, technical, and organizational blockers are resolved and milestones are delivered.
+
+Ensure that our overall data collection platform is secure, scalable, highly available, and maximally useful.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+ 
+
+You might thrive in this role if you:
+
+Hold a Ph.D., M.S., or B.S. or other degree in computer science, AI, machine learning, or a related field.
+
+Have experience being a hands-on individual contributor, while simultaneously managing a high performing team.
+
+Are comfortable rolling up your sleeves to write code and be a major contributor to a project.
+
+Have experience hiring, coaching, and inspiring senior engineers or other TLs.
+
+Are willing to both own important problems end-to-end, but also have good delegation skills and are willing to pick up whatever knowledge you're missing to get the job done.
+
+Are strongly motivated by OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter
+
+Stay goal-oriented instead of method-oriented, and are not afraid of tedious but high-value work when needed.
+
+Are a team player who enjoys collaborative work environments.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$310K – $465K • Offers Equity
+
+Apply now

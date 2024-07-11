@@ -1,0 +1,59 @@
+Software Engineer, Privacy
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Applied AI team safely brings OpenAI's technology to the world. We released ChatGPT, DALL·E, and the APIs for GPT-4, GPT-3, embeddings, and fine-tuning.
+
+Our commitment to privacy and data protection is paramount as we deliver AI to millions of people via ChatGPT and the APIs. We ensure the security, reliability, and performance of language, image, video, audio models while upholding the highest standards of privacy and ethical use of AI.
+
+About the Role
+
+We’re in search of a passionate Senior Privacy Engineer who’s driven by the challenge of embedding privacy into the DNA of our products and infrastructure. This role is perfect for someone who’s eager to make a mark by leading innovative privacy projects, enhancing our global compliance posture, and championing privacy-first design.
+
+You will architect, design, and write greenfield code to systematically ensure our privacy standards are adhered to across all of engineering. This role has pan-engineering scope in our product platform.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Spearhead privacy projects, driving them from concept to implementation, ensuring they align with global privacy regulations and embody our commitment to user privacy.
+
+Build data access layers that ensure privacy by default.
+
+Work cross functionally to ensure adoption of your platform, advocate for privacy-by-design principles, and foster an environment where privacy and security are everyone's responsibility.
+
+Serve as a privacy advocate, educating and influencing internal and external stakeholders on the importance of privacy and data protection.
+
+Communicate progress, status, and risk effectively to stakeholders internally and externally.
+
+You might thrive in this role if you:
+
+Have 7+ years of software engineering experience at the interface between high scale distributed infrastructure and quickly iterating product development.
+
+A major plus is a strong background in privacy engineering or a related field, with hands-on experience in designing and implementing privacy-centric solutions in various environments.
+
+You possess exceptional problem-solving skills, are adaptable, and can thrive in fast-paced environments, making sound decisions even when faced with ambiguity.
+
+You value continuous learning and are seeking an opportunity where you can grow professionally, contribute to a mission-driven team, and lead by example in the field of privacy engineering.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$245K – $465K
+
+Apply now

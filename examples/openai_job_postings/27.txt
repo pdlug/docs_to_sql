@@ -1,0 +1,47 @@
+Research Engineer, Post-training Model Optimization
+Post-training - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+Our team is responsible for the “post-training” or alignment of the models behind ChatGPT and the API. We integrate various improvements from the rest of the company into our RLHF process ultimately producing the models used by millions of users.
+
+About the Role
+
+We are looking for research scientists and research engineers to create a state-of-the-art post-training suite to enhance capabilities of large models for our customers and consumers. 
+
+This work will include collaborating and conducting research to identify new post-training methods and collaborating with our applied organization towards enabling customers to optimize their own models. 
+
+The ideal candidate will have a strong technical background in machine learning research and engineering.  
+
+You might thrive in this role if you:
+
+Have a deep understanding of machine learning and machine learning applications.
+
+Working knowledge and experience tuning large language models (multimodal) and building evaluations.
+
+Be willing to dive into large ML codebases to debug.
+
+Someone who thrives in a dynamic and technically complex environment.
+
+Track record of delivering outside the box novel solutions to solve real world constraints.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$360K – $440K
+
+Apply now

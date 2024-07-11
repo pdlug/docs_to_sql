@@ -1,0 +1,51 @@
+Distributed Systems/ML Engineer
+Platform - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Platform ML team builds the ML side of our state-of-the-art internal training framework used to train our cutting-edge models.  We work on distributed model execution as well as the interfaces and implementation for model code, training, and inference.  Our priorities are to maximize training throughput (how quickly we can train a new model) and researcher throughput (how quickly we can develop new models) with the goal of accelerating progress towards AGI.  We frequently collaborate with other teams to speed up the development of new capabilities.
+
+About the Role
+
+As a Distributed Systems/ML engineer, you will work on improving the training throughput for our internal training framework, while enabling researchers to experiment with new ideas.  This requires good engineering (for example designing, implementing, and optimizing state-of-the-art AI models), writing bug-free machine learning code (surprisingly difficult!), and acquiring deep knowledge of the performance of supercomputers. In all the projects this role pursues, the ultimate goal is to push the field forward.
+
+We’re looking for people who love optimizing performance, understanding distributed systems, and who cannot stand having bugs in their code.  Since our training framework is used for large runs with massive numbers of GPUs, performance improvements here will have a large impact.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Apply the latest techniques in our internal training framework to achieve impressive hardware efficiency for our training runs
+
+Profile and optimize our training framework
+
+Work with researchers to enable them to develop the next generation of models
+
+You might thrive in this role if you:
+
+Have run small scale ML experiments
+
+Love figuring out how systems work and continuously come up with ideas for how to make them faster while minimizing complexity and maintenance burden
+
+Have strong software engineering skills and are proficient in Python
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$245K – $385K
+
+

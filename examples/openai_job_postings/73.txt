@@ -1,0 +1,79 @@
+Software Engineer, Security Product and Platform
+Security - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+Security is at the foundation of OpenAI’s mission to ensure that artificial general intelligence benefits all of humanity.  
+
+The Security team protects OpenAI’s technology, people, and products. We are technical in what we build but are operational in how we do our work, and are committed to supporting all products and research at OpenAI. Our Security team tenets include: prioritizing for impact, enabling researchers, preparing for future transformative technologies, and engaging a robust security culture. 
+
+ 
+
+About the Role
+
+As a Software Engineer on the Security Product and Platform team, you will play a crucial role in building secure systems and be instrumental in developing, deploying, and maintaining software solutions that enhance our security postures. Leveraging your strong engineering skills, you will collaborate within Security and our cross-functional partners to design and develop secure software solutions and infrastructure. This role requires a proactive and resilient team player who can work cross-functionally and help build a cohesive security team.
+
+We are looking for Software Engineers interested in coming to tackle challenges in each one of these areas:
+
+Detection Infrastructure: You will work on protecting the company’s data and infrastructure from emerging threats that are critical to OpenAI. In addition to preventative measures, you’ll also be responsible for enhancing our detective and corrective controls and partner with teams within Security and broader OpenAI. 
+
+Identity Systems: You’ll be eager to work on identity and access management solutions that will significantly impact our engineering and research stack. The focus will be on improving developer and research tooling and productivity, while also delivering the robust functionality and controls required by IT and Security.
+
+Infrastructure Security: You will focus on building products and practices that scale to a global footprint. Software engineers in this role will partner with engineering teams across the organization to transparently improve the security of research and production systems.  Primary areas of work will be: 
+
+Development of state-of-the-art infrastructure controls
+
+Real-time visibility and enforcement of secure infrastructure practices
+
+hardening of build and CI systems
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Research emerging technologies and methodologies that will improve product security and efficiency.
+
+Design and implement new features for existing security tools to enhance functionality and user experience.
+
+Regularly evaluate security tools and frameworks, identifying areas for improvement or upgrades.
+
+Implement security measures that defend against unauthorized access, data breaches, and other cyber threats.
+
+Troubleshoot and resolve issues with security tools, including failures, bugs, and performance bottlenecks.
+
+Experiment with new tools and technologies to expand the effectiveness of security measures implemented within the company and effectiveness, ensuring robustness and scalability of security solutions.
+
+You might thrive in this role if you have:
+
+Experience designing and developing secure software solutions and infrastructure components.
+
+Proficiency in programming languages such as Python, Golang, or similar.
+
+Proven track record of developing high-quality, scalable, and secure applications.
+
+Familiarity with tools and methodologies used for code review, security testing, and vulnerability assessments.
+
+Experience with security practices such as threat models, risk assessment, and security protocols.
+
+Ability to work collaboratively and effectively in a cross-functional team environment.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$245K – $310K • Offers Equity
+
+Apply now

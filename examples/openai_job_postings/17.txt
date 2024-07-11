@@ -1,0 +1,70 @@
+GPU Kernels Engineer
+Research - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+Our mission at OpenAI is to discover and enact the path to safe, beneficial AGI. To do this, we believe that many technical breakthroughs are needed in generative modeling, reinforcement learning, large-scale optimization, active learning, among other topics.
+
+The Research Platform team builds robust and scalable software to support our research efforts. It also offers core development services for mission-critical goals and applications. In the Kernel Libraries team, we write compute and communication kernels for the GPUs and CPUs powering our research clusters. We also collaborate closely with the Triton compiler team to design new language features and improve the performance of generated code.
+
+About the Role
+As a Research Engineer for Kernel Libraries, you will write high-performance kernels for the training and inference workloads. You will work with other engineers across the platform team to accelerate our biggest training runs. You will also work backward from the capabilities of the GPUs to make model architectures amenable to efficient training and inference. If you are excited about maximizing HBM and NVLink bandwidth, optimizing for instruction issue rate, shuffling within a warp, managing the precious register space, and keeping the tensor cores at high utilization, this is the perfect opportunity!
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+Develop high-performance GPU/CPU kernels and make trade-offs that maximize end-to-end hardware utilization
+
+Utilize knowledge of hardware features and performance characteristics to make aggressive optimizations
+
+Work with our other platform teams to deploy your kernels, manage our training uptime, and find opportunities for optimization
+
+Develop low-precision algorithms that deliver high performance with little loss of ML accuracy
+
+Work with ML engineers to develop model architectures that are amenable to efficient training and inference
+
+Work with hardware vendors and advise on HW/SW co-design
+
+You might thrive in this role if you:
+Are a strong coder with excellent skills in C/C++ and Python
+
+Have a deep understanding of GPU, CPU, or other AI accelerator architectures
+
+Have experience writing and optimizing compute kernels with CUDA or similar languages
+
+Are familiar with LLM architectures and training infrastructure
+
+Have experience driving ML accuracy with low-precision formats
+
+Have 3+ years of relevant industry experience
+
+Get a great deal of satisfaction with every percentage point in performance improvement
+
+These attributes are nice to have:
+PhD in Computer Science and Engineering with a specialization in Computer Architecture, Parallel Computing, Compilers, or other Systems
+
+Participation in competitive programming competitions
+
+Experience building compilers
+
+Experience working with hardware developers
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$240K – $440K
+
+

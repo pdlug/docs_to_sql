@@ -1,0 +1,65 @@
+Machine Learning Engineer, Applied AI
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+OpenAI is at the forefront of artificial intelligence, driving innovation and shaping the future with cutting-edge research. Our mission is to ensure that AI's benefits reach everyone. We are looking for visionary Machine Learning Engineers to join our Applied Group, where you'll transform groundbreaking research into real-world applications that can change industries, enhance human creativity, and solve complex problems.
+
+About the Role
+
+As a Machine Learning Engineer in OpenAI's Applied Group, you will have the opportunity to work with some of the brightest minds in AI. You'll contribute to deploying state-of-the-art models in production environments, helping turn research breakthroughs into tangible solutions. If you're excited about making AI technology accessible and impactful, this role is your chance to make a significant mark.
+
+In this role, you will:
+
+Innovate and Deploy: Design and deploy advanced machine learning models that solve real-world problems. Bring OpenAI's research from concept to implementation, creating AI-driven applications with a direct impact.
+
+Collaborate with the Best: Work closely with researchers, software engineers, and product managers to understand complex business challenges and deliver AI-powered solutions. Be part of a dynamic team where ideas flow freely and creativity thrives.
+
+Optimize and Scale: Implement scalable data pipelines, optimize models for performance and accuracy, and ensure they are production-ready. Contribute to projects that require cutting-edge technology and innovative approaches.
+
+Learn and Lead: Stay ahead of the curve by engaging with the latest developments in machine learning and AI. Take part in code reviews, share knowledge, and lead by example to maintain high-quality engineering practices.
+
+Make a Difference: Monitor and maintain deployed models to ensure they continue delivering value. Your work will directly influence how AI benefits individuals, businesses, and society at large.
+
+You might thrive in this role if you:
+
+Master's/  PhD degree in Computer Science, Machine Learning, Data Science, or a related field. 
+
+Demonstrated experience in deep learning and transformers models
+
+Proficiency in frameworks like PyTorch or Tensorflow
+
+Strong foundation in data structures, algorithms, and software engineering principles.
+
+Experience with search relevance, ads ranking  or LLMs is a plus.
+
+Are familiar with methods of training and fine-tuning large language models, such as distillation, supervised fine-tuning, and policy optimization
+
+Excellent problem-solving and analytical skills, with a proactive approach to challenges.
+
+Ability to work collaboratively with cross-functional teams.
+
+Ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
+
+Enjoy owning the problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$310K – $550K
+
+Apply now

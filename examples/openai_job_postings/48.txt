@@ -1,0 +1,71 @@
+Software Engineer, Analytics Platform
+Platform - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Research Platform Analytics team designs, builds, and operates the critical foundational data and analytics infrastructure that enables research at OpenAI.
+
+Our goal is one, and one only: accelerate the progress of research towards AGI. We do this by owning critical components of the research training stack, starting from key data processing pipelines and complex libraries that directly feed into our distributed training, followed by a variety of observability and analytics systems aimed at providing quality signals about our research, as well as an important series of components to handle data lifecycle at scale.
+
+ 
+
+About the Role
+
+As we scale up with more researchers and engineers joining OpenAI, we seek a pragmatic and passionate engineer with a strong focus on the experience for both engineers and scientists that work in our large data sets. Some examples of the work we do include making sure we have robust data processing pipelines that carry observability metrics and other important signals, highly effective observability systems for our researchers to reason about the quality of our research, and various data lifecycle management projects centered around efficiency, security and scale.
+
+You will find yourself at home if you are comfortable with work such as scaling Kubernetes services, debugging Kafka consumer lag, diagnosing various distributed systems failures, and developing a new end-to-end data processing pipeline, all the way from raw data capture to bespoke analytics leveraging a data warehouse or a stream processing framework. If you have previous experience with dealing with data processing and transformations during pre-training, this is also a role for you.
+
+This role is based in San Francisco, CA or open to being remote within the US. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Participate in architecture and engineering decisions, bringing your strong experience and knowledge to bear.
+
+Ensure the security, integrity, and compliance of data according to industry and company standards.
+
+Ensure our analytics and data platforms can scale reliably to the next several orders of magnitude
+
+Accelerate company productivity by empowering your fellow engineers, researchers, and teammates with excellent data tooling and systems, providing a best in case experience
+
+Bring new features and capabilities to the world by partnering with product engineers, trust & safety and other teams to build the technical foundations
+
+Like all other teams, we are responsible for the reliability of the systems we build. This includes an on-call rotation to respond to critical incidents as needed 
+
+ 
+
+You might thrive in this role if you have:
+
+Experience in building stream and batch data processing pipelines, using technologies such as, or equivalent to, Kafka, Spark, Flink.
+
+Proficient with modern infrastructure management tools, such as Kubernetes and Terraform.
+
+Have a passion for observability systems (bonus if for ML training). You are excited by the idea of building bespoke analytics systems that provide answers to key ML research questions.
+
+Have worked in a ML training organization and have experience with the problem of data transformation during pre-training.
+
+Are a proficient software engineer, ideally in Python, and are used to working with large monorepo codebases.
+
+Have worked on data lifecycle management systems for large organizations, and dealt with the problems of access control, provenance, auditing, data movement at scale, metadata management, etc.
+
+Are a self-starter and are comfortable operating in a fast-paced environment.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$295K – $440K • Offers Equity
+
+Apply now

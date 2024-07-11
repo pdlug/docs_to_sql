@@ -1,0 +1,51 @@
+Graph Compiler Engineer
+Platform - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Platform ML team builds the ML side of our state-of-the-art internal training framework used to train our cutting-edge models.  We work on distributed model execution as well as the interfaces and implementation for model code, training, and inference.  Our priorities are to maximize training throughput (how quickly we can train a new model) and researcher throughput (how quickly we can develop new models) with the goal of accelerating progress towards AGI.  We frequently collaborate with other teams to speed up the development of new capabilities.
+
+About the Role
+
+As a Graph Compiler Engineer you will work on the capture and optimization of model graphs for our training runs.  Seamless graph capture is important for keeping researcher throughput high, while graph-level optimizations will allow us to get state-of-the-art training throughput on current and future accelerators.
+
+We’re looking for engineers who are excited to work on our training framework and with researchers at the cutting edge of ML research.  Given the scale of our training, small improvements to hardware utilization for our largest runs can produce large cost savings.  Enabling researchers to iterate quickly on their ideas will produce large improvements in model capabilities and compute efficiency.
+
+This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+
+In this role, you will:
+
+Work on our internal training framework to enable easy graph capture of our research experiments
+
+Apply advanced optimizations to the graph to maximally utilize hardware resources
+
+You might thrive in this role if you:
+
+Have strong software engineering skills and are proficient in Python
+
+Have experience running machine learning experiments
+
+Have experience working on a machine learning compiler
+
+Have deep knowledge of GPU performance and systems-level optimization
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$245K – $385K
+
+Apply now

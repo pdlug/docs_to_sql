@@ -1,0 +1,59 @@
+Research Engineer, Safety Reasoning
+Safety Systems - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+The Safety Systems team is at the forefront of OpenAI's mission to build and deploy safe AGI, driving our commitment to AI safety and fostering a culture of trust and transparency.
+
+The Safety Reasoning Research team is poised at the intersection of short-term pragmatic projects and long-term fundamental research, prioritizing rapid system development while maintaining technical robustness. Key focus areas include improving foundational models’ ability to accurately reason about safety, values, and questions of cultural norms, refining moderation models, driving rapid policy improvements, and addressing critical societal challenges like election misinformation. As we venture into 2024, the team seeks talents adept in novel abuse discovery and policy iteration, aligning with our high-priority goals of multimodal moderation and ensuring digital safety.
+
+About the Role
+
+The role involves developing innovative machine learning techniques that push the limit of our foundation model’s safety understanding and capability. You will engage in defining and developing realistic and impactful safety tasks that, once improved, can be integrated into OpenAI's safety systems or benefit other safety/alignment research initiatives. Examples of safety initiatives include moderation policy enforcement, policy development using democratic input, and safety reward modeling. You will be experimenting with a wide range of research techniques not limited to reasoning, architecture, data, and multimodal.
+
+In this role, you will:
+
+Conduct applied research to improve the ability of foundational models to accurately reason about questions of human values, morals, ethics, and cultural norms, and apply these improved models to practical safety challenges.
+
+Develop and refine AI moderation models to detect and mitigate known and emerging patterns of AI misuse and abuse.
+
+Work with policy researchers to adapt and iterate on our content policies to ensure effective prevention of harmful behavior.
+
+Contribute to research on multimodal content analysis to enhance our moderation capabilities.
+
+Develop and improve pipelines for automated data labeling and augmentation,  model training, evaluation and deployment, including active learning process, routines for calibration and validation data refresh etc.
+
+Experiment and design an effective red-teaming pipeline to examine the robustness of our harm prevention systems and identify areas for future improvement.
+
+You might thrive in this role if you:
+
+Are excited about OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter
+
+Possess 5+ years of research engineering experience and proficiency in Python or similar languages.
+
+Thrive in environments involving large-scale AI systems and multimodal datasets (a plus).
+
+Exhibit proficiency in the field of AI safety, focusing on topics like RLHF, adversarial training, robustness, fairness & biases, which is extremely advantageous.
+
+Show enthusiasm for AI safety and dedication to enhancing the safety of cutting-edge AI models for real-world use.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$245K – $440K
+
+Apply now

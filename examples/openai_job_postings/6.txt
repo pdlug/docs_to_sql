@@ -1,0 +1,57 @@
+Engineering Manager, Fine-Tuning API
+Applied AI Engineering - San Francisco
+
+Apply now(opens in a new window)
+About the Team
+
+Our team brings OpenAI’s most capable technology to the world through our products. Most recently, we released ChatGPT, GPT-4, the Whisper API, and DALL-E. We empower consumers and developers alike to use and access our start-of-the-art AI models, allowing them to do things that they’ve never been able to before.
+
+Across all product lines, we ensure that these powerful tools are used responsibly. This is a key part of OpenAI’s path towards safely deploying broadly beneficial Artificial General Intelligence (AGI). Safety is more important to us than unfettered growth.
+
+About the Role
+
+We are looking for an experienced engineering manager to support our Fine Tuning API team – the team that enables our API developers to customize their models via fine-tuning. This is a unique team that spans both research and applied AI tech stacks. You will work closely with our research team to bring the core technology that trained GPT-4 into the hands of all of our API developers. You will also collaborate with our product teams to build a world-class model customization experience for our API developers. Above all, you will be responsible for ensuring the safe deployment of a product that can push the performance of our models to new heights.
+
+In this role, you will:
+
+Manage, build out, and mentor a team of high performing software and research engineers.
+
+Work with our product team to craft both the technical and product vision for the future of our fine tuning API.
+
+Collaborate closely with research teams to push to the boundaries of what is possible with large language model customization.
+
+Create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think
+
+You might thrive in this role if you:
+
+Have 3+ years of experience managing high performing and diverse software engineering teams, and 6+ years of experience working with production software systems.
+
+Have prior experience working with training and inference of large language models, especially in production environments.
+
+Have familiarity with the latest AI research and working knowledge of how these systems are efficiently implemented
+
+Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done
+
+Have the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
+
+ 
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
+
+For US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation
+
+$300K – $450K
+
+
