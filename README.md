@@ -6,6 +6,10 @@ Small proof of concept using [Instructor](https://python.useinstructor.com/) to 
 from documents and build a [SQLite](https://www.sqlite.org/) table with the
 results.
 
+The meat of this is a Pydantic model to SQLite schema generator. It handles most
+Pydantic types but has not be extensively tested so you may encounter some edge
+cases. Feel free to open an issue if you do.
+
 # Installation
 
 ```bash
