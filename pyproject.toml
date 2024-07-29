@@ -22,4 +22,5 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.mypy]
 files = ["src"]
-strict = "true"
+strict = true
+plugins = ["pydantic.mypy"]

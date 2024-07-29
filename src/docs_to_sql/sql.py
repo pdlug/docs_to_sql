@@ -55,7 +55,7 @@ def not_null_constraint(
     field_info = model.model_fields[field_name]
     return (
         " NOT NULL"
-        if field_info.is_required and type(None) not in get_args(field_type)
+        if field_info.is_required() and type(None) not in get_args(field_type)
         else ""
     )
 

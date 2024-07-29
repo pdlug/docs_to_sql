@@ -36,11 +36,12 @@ def process_job_postings(db_name: str, table_name: str) -> None:
     conn.commit()
 
     job_postings_dir = "./examples/openai_job_postings"
-    job_posting_files = [
-        f for f in os.listdir(job_postings_dir) if isfile(join(job_postings_dir, f))
-    ]
+    job_posting_files = sorted(
+        [f for f in os.listdir(job_postings_dir) if isfile(join(job_postings_dir, f))],
+        key=lambda x: int(x.split(".")[0]),
+    )
 
-    for job_posting_file in job_posting_files:
+    for job_posting_file in sorted(job_posting_files):
         with open(os.path.join(job_postings_dir, job_posting_file), "r") as f:
             print(f"Processing {job_posting_file}")
             job_posting = extract(JobPosting, "Analyze the job posting", f.read())
