@@ -1,26 +1,29 @@
-[tool.poetry]
+[project]
 name = "docs_to_sql"
 version = "0.1.0"
 description = ""
-authors = ["Paul Dlug <paul.dlug@gmail.com>"]
+authors = [
+    { name = "Paul Dlug", email = "paul.dlug@gmail.com" }
+]
 readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "instructor>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "pydantic-settings>=2.0.0",
+]
 
-[tool.poetry.dependencies]
-python = "^3.12"
-instructor = "^1"
-python-dotenv = "^1"
-pydantic-settings = "^2"
-
-[tool.poetry.group.dev.dependencies]
-mypy = "^1"
-ruff = "^0"
-pre-commit = "^3"
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[dependency-groups]
+dev = [
+    "mypy>=1.13.0",
+    "ruff>=0.7.3",
+]
 
 [tool.mypy]
 files = ["src"]
 strict = true
 plugins = ["pydantic.mypy"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

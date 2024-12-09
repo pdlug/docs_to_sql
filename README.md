@@ -13,7 +13,7 @@ cases. Feel free to open an issue if you do.
 # Installation
 
 ```bash
-poetry install
+uv sync
 ```
 
 Create a `.env` and add your OpenAI API key:
@@ -29,7 +29,7 @@ For a practical example, let's say we want to analyze job postings at OpenAI so 
 Running the example will load each job posting and insert the result into the database. This will take a bit depending on how fast GPT-4o is today.
 
 ```shell
-poetry run python src/docs_to_sql/main.py
+uv run src/docs_to_sql/main.py
 ```
 
 The output will be a SQLite database named 'job_postings.db' with the extracted job postings in a table called `job_postings`.
